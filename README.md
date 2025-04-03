@@ -26,3 +26,12 @@ gives ability to add additional code you may want to substitute.
 
 Easy group 3 working on a fact for all students in the class
 # The group that worked on this was Carson Kerr, Reed Willis, Tatum Duthu, and Cohen Cantrell
+
+
+
+FOX:
+gh/ profile
+-pic
+-profileme
+link -> project
+(Linkedin)
