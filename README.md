@@ -2,6 +2,8 @@
 
 ### here is a sample code: code example,
 
+
+### NOTES from Dr. C in class 4/3/25
 diff
 details/summary
 headings
