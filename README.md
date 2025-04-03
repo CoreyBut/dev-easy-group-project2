@@ -1,8 +1,23 @@
 # dev-easy-group-project
 
+### here is a sample code: code example,
+
+diff
+details/summary
+headings
+code syntax highlight
+quotes
+
+
+```diff
+gives ability to add additional code you may want to substitute.
+
 
 
 <details>
+  <summary>
+    
+  </summary>
   Notes for Readme on github, will give audience a preview of work
   
 </details>
