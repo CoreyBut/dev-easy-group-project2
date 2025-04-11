@@ -38,14 +38,14 @@ dev-easy-group-project2/ ├── index.html ├── styles/ │ └── st
 ---
 
 ## 🧪 Sample Code
+
 ```javascript
 fetch('https://api.example.com/randomfact')
   .then(response => response.json())
   .then(data => {
     document.getElementById('fact').textContent = data.fact;
   });
-
----
+```
 
 ## 🔄 Recent Changes
 - Removed hardcoded facts
@@ -56,10 +56,10 @@ fetch('https://api.example.com/randomfact')
 ## 💬 Quote
 “The beautiful thing about learning is that nobody can take it away from you.” – B.B. King
 
+---
 
 ## ✅ Future Enhancements
  Add user authentication to personalize facts
  Implement a feature to share facts on social media
  Enhance mobile responsiveness
-
 
