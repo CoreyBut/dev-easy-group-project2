@@ -63,3 +63,7 @@ fetch('https://api.example.com/randomfact')
  Implement a feature to share facts on social media
  Enhance mobile responsiveness
 
+
+## 🖼️ Preview
+
+![Screenshot of the Random Fact project](./devEasyWireframe.jpg)
